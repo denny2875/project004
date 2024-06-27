@@ -11,7 +11,7 @@ public class Quiz2 {
 		if ((8 <= age) && (gender == "m")) {
 			System.out.println("남학생 입니다");
 		}
-	     //ㅇㅇㄴ
+	     
 		
 		
 		
